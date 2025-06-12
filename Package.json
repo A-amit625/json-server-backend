@@ -1,5 +1,5 @@
 {
-    "name": "json-server-railway",
+    "name": "json-server-Backend-Data",
     "version": "1.0.0",
     "main": "server.js",
     "scripts": {
